@@ -67,17 +67,17 @@ contact:    tripurari5821@gmail.com
 
 ---
 
-### 🚀 Featured Projects
+###  Featured Projects
 
 | Project | Description | Tech |
 |--------|-------------|------|
-| [🎨 Excalidraw](https://github.com/Tripurari-singh/excalidraw) | Real-time collaborative diagramming platform with WebSocket sync, Docker, K8s, CI/CD, and Prometheus monitoring | TypeScript · WebSockets · Docker · K8s · Turborepo |
-| [🧵 Threadly](https://github.com/Tripurari-singh/Threadly) | Full-stack social media platform with posts, likes, follows, Clerk auth | Next.js · PostgreSQL · Prisma · shadcn/ui |
-| [🎓 Teachio](https://github.com/Tripurari-singh/Teachio) | Course selling platform with role-based dashboards and CRUD | MERN · TypeScript · MongoDB · REST APIs |
+| [ Excalidraw](https://github.com/Tripurari-singh/excalidraw) | Real-time collaborative diagramming platform with WebSocket sync, Docker, K8s, CI/CD, and Prometheus monitoring | TypeScript · WebSockets · Docker · K8s · Turborepo |
+| [ Threadly](https://github.com/Tripurari-singh/Threadly) | Full-stack social media platform with posts, likes, follows, Clerk auth | Next.js · PostgreSQL · Prisma · shadcn/ui |
+| [ Teachio](https://github.com/Tripurari-singh/Teachio) | Course selling platform with role-based dashboards and CRUD | MERN · TypeScript · MongoDB · REST APIs |
 
 ---
 
-### 📊 GitHub Stats
+###  GitHub Stats
 
 <div align="center">
 
@@ -94,9 +94,8 @@ contact:    tripurari5821@gmail.com
 
 ---
 
-### 🏆 Achievements
+###  Achievements
 
-- 🔢 **250+ DSA problems** solved on LeetCode, GeeksforGeeks & CodeStudio
 - 🐳 Containerised full-stack monorepos using **Docker + Turborepo**
 - ☸️ Deployed production-grade services on **Kubernetes** with ingress, autoscaling & service discovery
 - 📈 Set up full observability stacks with **Prometheus + Grafana + New Relic**
@@ -104,7 +103,7 @@ contact:    tripurari5821@gmail.com
 
 ---
 
-### 📬 Connect with Me
+###  Connect with Me
 
 <div align="center">
 
