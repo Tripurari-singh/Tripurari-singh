@@ -4,7 +4,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=1000&color=6E40C9&center=true&vCenter=true&random=false&width=650&lines=🐳+Docker+%7C+☸️+Kubernetes+%7C+⚙️+CI%2FCD+Engineer;🚀+Building+Real-Time+Collaborative+Platforms;🧱+Turborepo+Monorepos+%7C+WebSocket+Systems;📊+Prometheus+%7C+Grafana+%7C+New+Relic+Observability;🌐+TypeScript+%7C+Next.js+%7C+Node.js+%7C+PostgreSQL;🎓+B.Tech+CSE+%40+VIT+Bhopal+—+May+2026)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=1000&color=6E40C9&center=true&vCenter=true&random=false&width=650&lines=🐳+Docker+%7C++Kubernetes+%7C+⚙️+CI%2FCD+Engineer;🚀+Building+Real-Time+Collaborative+Platforms;+Turborepo+Monorepos+%7C+WebSocket+Systems;+Prometheus+%7C+Grafana+%7C+New+Relic+Observability;+TypeScript+%7C+Next.js+%7C+Node.js+%7C+PostgreSQL;+B.Tech+CSE+%40+VIT+Bhopal+—+May+2026)](https://git.io/typing-svg)
 
 </div>
 
@@ -22,7 +22,7 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 ```yaml
 ┌─────────────────────────────────────────────────────────────────┐
@@ -30,7 +30,7 @@
 ├─────────────────────────────────────────────────────────────────┤
 │  name:        Tripurari Singh                                   │
 │  degree:      B.Tech CSE  ·  Cyber Security & Digital Forensics │
-│  university:  VIT Bhopal University  ·  CGPA: 8.24 / 10        │
+│  university:  VIT Bhopal University        │
 │  grad_year:   May 2026                                          │
 │  role:        DevOps + Full-Stack Engineer                      │
 │  currently:   Building Excalidraw — Real-Time Collab Platform   │
@@ -42,7 +42,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 **Languages**
 
@@ -87,16 +87,16 @@
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 <details>
-<summary><h3>🎨 Excalidraw — Real-Time Collaborative Diagramming Platform &nbsp;<img src="https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square"/> &nbsp;<img src="https://img.shields.io/badge/May_2026-Present-6E40C9?style=flat-square"/></h3></summary>
+<summary><h3> Excalidraw — Real-Time Collaborative Diagramming Platform &nbsp;<img src="https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square"/> &nbsp;<img src="https://img.shields.io/badge/May_2026-Present-6E40C9?style=flat-square"/></h3></summary>
 
 <br/>
 
 > A production-grade real-time collaborative whiteboard platform built on a **Turborepo monorepo** — allowing multiple users to draw, annotate, and collaborate on diagrams simultaneously via WebSocket-based synchronisation.
 
-### 🧱 Full-Stack Implementation
+###  Full-Stack Implementation
 
 | Layer | Technology | Details |
 |-------|-----------|---------|
@@ -107,7 +107,7 @@
 | **Monorepo** | Turborepo | Shared packages, parallel builds, unified dependency management |
 | **Auth** | JWT + Role-Based Access | Secure token auth, protected routes, user session management |
 
-### ⚙️ DevOps & Infrastructure
+###  DevOps & Infrastructure
 
 ```
   GitHub Push
@@ -146,7 +146,7 @@
 | **Ingress** | K8s Ingress Controller | Path-based routing across frontend and backend services |
 | **Monitoring** | Prometheus + Grafana | Metrics scraping, custom dashboards, latency & uptime tracking |
 
-### 🏷️ Tech Tags
+### Tech Tags
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socketdotio&logoColor=white)
@@ -163,13 +163,13 @@
 ---
 
 <details>
-<summary><h3>🧵 Threadly — Full-Stack Social Media Platform &nbsp;<img src="https://img.shields.io/badge/Status-Completed-blue?style=flat-square"/> &nbsp;<img src="https://img.shields.io/badge/Jan_2026-Mar_2026-6E40C9?style=flat-square"/></h3></summary>
+<summary><h3> Threadly — Full-Stack Social Media Platform &nbsp;<img src="https://img.shields.io/badge/Status-Completed-blue?style=flat-square"/> &nbsp;<img src="https://img.shields.io/badge/Jan_2026-Mar_2026-6E40C9?style=flat-square"/></h3></summary>
 
 <br/>
 
 > A full-stack social media application with a Twitter/Threads-like feature set — built with **Next.js**, **TypeScript**, and **PostgreSQL** — with a complete DevOps pipeline from local Docker development to cloud deployment.
 
-### 🧱 Full-Stack Implementation
+###  Full-Stack Implementation
 
 | Layer | Technology | Details |
 |-------|-----------|---------|
@@ -180,7 +180,7 @@
 | **API** | Next.js API Routes | RESTful endpoints for all social interactions |
 | **Features** | Posts · Comments · Likes · Follows | Full social graph with engagement features |
 
-### ⚙️ DevOps & Infrastructure
+###  DevOps & Infrastructure
 
 | DevOps Layer | Tool | What Was Done |
 |-------------|------|---------------|
@@ -190,7 +190,7 @@
 | **Cloud Deployment** | AWS | Scalable cloud deployment with environment configuration |
 | **Monitoring** | Prometheus + Grafana + New Relic | Full observability: metrics, dashboards, APM tracing |
 
-### 🗄️ Database Schema
+###  Database Schema
 
 ```
 Users ──< Posts ──< Comments
@@ -200,7 +200,7 @@ Users ──< Posts ──< Comments
   └──< Follows (self-referential)
 ```
 
-### 🏷️ Tech Tags
+###  Tech Tags
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
@@ -223,7 +223,7 @@ Users ──< Posts ──< Comments
 
 > A full-stack course marketplace with role-based dashboards for students and instructors — built on the **MERN stack** with **TypeScript**, featuring 20+ reusable React components and 7–8 normalised MongoDB schemas.
 
-### 🧱 Full-Stack Implementation
+### Full-Stack Implementation
 
 | Layer | Technology | Details |
 |-------|-----------|---------|
@@ -233,7 +233,7 @@ Users ──< Posts ──< Comments
 | **Auth** | JWT + Role-Based Access | Secure auth with student and instructor role separation |
 | **Features** | CRUD courses · Purchase flow · Progress tracking · Dashboards | End-to-end workflows for both roles |
 
-### ⚙️ DevOps & Infrastructure
+###  DevOps & Infrastructure
 
 | DevOps Layer | Tool | What Was Done |
 |-------------|------|---------------|
@@ -242,7 +242,7 @@ Users ──< Posts ──< Comments
 | **Cloud** | AWS EC2 + ECR + Load Balancer | Cloud infrastructure with load balancing and autoscaling |
 | **Linux** | Bash + Linux | Backend service management and deployment scripts |
 
-### 🏷️ Tech Tags
+###  Tech Tags
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -255,7 +255,7 @@ Users ──< Posts ──< Comments
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <div align="center">
 
@@ -279,24 +279,20 @@ Users ──< Posts ──< Comments
 
 ---
 
-## 🏆 Achievements & Highlights
-
-```
-🔢  250+   DSA problems solved — LeetCode · GeeksforGeeks · CodeStudio
-🐳    3    Projects fully containerised with Docker + Docker Compose
-☸️    3    Projects deployed with Kubernetes (Deployments · Services · Ingress · HPA)
-⚙️    3    End-to-end CI/CD pipelines built with GitHub Actions
-📊    2    Full observability stacks — Prometheus + Grafana dashboards
-🔍    1    APM integration — New Relic application performance monitoring
-🧱    1    Production Turborepo monorepo — shared packages + parallel builds
-🌐    1    Real-time WebSocket system — multi-user session synchronisation
+##     Projects fully containerised with Docker + Docker Compose
+    3    Projects deployed with Kubernetes (Deployments · Services · Ingress · HPA)
+    3    End-to-end CI/CD pipelines built with GitHub Actions
+    2    Full observability stacks — Prometheus + Grafana dashboards
+    1    APM integration — New Relic application performance monitoring
+    1    Production Turborepo monorepo — shared packages + parallel builds
+    1    Real-time WebSocket system — multi-user session synchronisation
 ```
 
 ---
 
 <div align="center">
 
-### 💬 *"Ship it containerised, monitor it obsessively, automate everything else."*
+###  *"Ship it containerised, monitor it obsessively, automate everything else."*
 
 <br/>
 
